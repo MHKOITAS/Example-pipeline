@@ -1,0 +1,35 @@
+{
+"apiVersion": "V2",
+"assemblies": [
+{
+  "files": [
+    {
+      "filePath": "data_summary.tsv",
+      "fileType": "DATA_TABLE",
+      "uncompressedLengthBytes": "603"
+    },
+    {
+      "filePath": "assembly_data_report.jsonl",
+      "fileType": "DATA_REPORT",
+      "uncompressedLengthBytes": "7720"
+    }
+  ]
+},{
+  "accession": "GCA_018389705.1",
+  "files": [
+    {
+      "filePath": "GCA_018389705.1/GCA_018389705.1_ASM1838970v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA",
+      "uncompressedLengthBytes": "1048522"
+    }
+  ]
+},{
+  "accession": "GCF_018389705.1",
+  "files": [
+    {
+      "filePath": "GCF_018389705.1/GCF_018389705.1_ASM1838970v1_genomic.fna",
+      "fileType": "GENOMIC_NUCLEOTIDE_FASTA",
+      "uncompressedLengthBytes": "1048525"
+    }
+  ]
+}]}
